@@ -2,7 +2,7 @@
 
 Program ini merupakan script sederhana untuk mengunduh audio dari video YouTube dan mengonversinya ke format MP3. Program ini menggunakan pustaka `pytube` untuk mengunduh video dan `pydub` untuk mengonversi audio.
 
-## Diudi menggunakan
+## Diuji menggunakan
 - `Python 3.9.18`
 - Pustaka `pytube 15.0.0` 
 - Pustaka `pydub 0.25.1`
